@@ -1,0 +1,168 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "transationAmount": 30,
+      "orderDate": "2020-04-05"
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "transationAmount": 60,
+      "orderDate": "2020-04-08"
+    },
+    {
+      "id": 3,
+      "customerId": 1,
+      "transationAmount": 120,
+      "orderDate": "2020-04-20"
+    },
+    {
+      "id": 4,
+      "customerId": 1,
+      "transationAmount": 30,
+      "orderDate": "2020-05-05"
+    },
+    {
+      "id": 5,
+      "customerId": 1,
+      "transationAmount": 60,
+      "orderDate": "2020-05-08"
+    },
+    {
+      "id": 6,
+      "customerId": 1,
+      "transationAmount": 150,
+      "orderDate": "2020-05-20"
+    },
+    {
+      "id": 7,
+      "customerId": 1,
+      "transationAmount": 30,
+      "orderDate": "2020-06-05"
+    },
+    {
+      "id": 8,
+      "customerId": 1,
+      "transationAmount": 60,
+      "orderDate": "2020-06-08"
+    },
+    {
+      "id": 9,
+      "customerId": 1,
+      "transationAmount": 190,
+      "orderDate": "2020-06-20"
+    },
+
+    {
+      "id": 10,
+      "customerId": 2,
+      "transationAmount": 20,
+      "orderDate": "2020-04-05"
+    },
+    {
+      "id": 11,
+      "customerId": 2,
+      "transationAmount": 80,
+      "orderDate": "2020-04-08"
+    },
+    {
+      "id": 12,
+      "customerId": 2,
+      "transationAmount": 120,
+      "orderDate": "2020-04-20"
+    },
+    {
+      "id": 13,
+      "customerId": 2,
+      "transationAmount": 30,
+      "orderDate": "2020-05-05"
+    },
+    {
+      "id": 14,
+      "customerId": 2,
+      "transationAmount": 60,
+      "orderDate": "2020-05-08"
+    },
+    {
+      "id": 15,
+      "customerId": 2,
+      "transationAmount": 150,
+      "orderDate": "2020-05-20"
+    },
+    {
+      "id": 16,
+      "customerId": 2,
+      "transationAmount": 30,
+      "orderDate": "2020-06-05"
+    },
+    {
+      "id": 17,
+      "customerId": 2,
+      "transationAmount": 60,
+      "orderDate": "2020-06-08"
+    },
+    {
+      "id": 18,
+      "customerId": 2,
+      "transationAmount": 190,
+      "orderDate": "2020-06-20"
+    },
+
+    {
+      "id": 19,
+      "customerId": 3,
+      "transationAmount": 30,
+      "orderDate": "2020-04-05"
+    },
+    {
+      "id": 20,
+      "customerId": 3,
+      "transationAmount": 90,
+      "orderDate": "2020-04-08"
+    },
+    {
+      "id": 21,
+      "customerId": 3,
+      "transationAmount": 120,
+      "orderDate": "2020-04-20"
+    },
+    {
+      "id": 22,
+      "customerId": 3,
+      "transationAmount": 30,
+      "orderDate": "2020-05-05"
+    },
+    {
+      "id": 23,
+      "customerId": 3,
+      "transationAmount": 60,
+      "orderDate": "2020-05-08"
+    },
+    {
+      "id": 24,
+      "customerId": 3,
+      "transationAmount": 150,
+      "orderDate": "2020-05-20"
+    },
+    {
+      "id": 25,
+      "customerId": 3,
+      "transationAmount": 30,
+      "orderDate": "2020-06-05"
+    },
+    {
+      "id": 26,
+      "customerId": 3,
+      "transationAmount": 60,
+      "orderDate": "2020-06-08"
+    },
+    {
+      "id": 27,
+      "customerId": 3,
+      "transationAmount": 190,
+      "orderDate": "2020-06-20"
+    }
+  ]
+}
